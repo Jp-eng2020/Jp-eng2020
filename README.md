@@ -1,7 +1,7 @@
 ## Hello, me chamo João Pedro  
 
-- 🔭 Open to work
-- 🌱 Estutando Javascript 
+- 🔭 Bolsista Java LEAD DELL
+- 🌱 Estutando Springboot
 - 🤖 Academico em Engenharia de Computação na UFC
 - ⚡ Músico e Skatista
 
