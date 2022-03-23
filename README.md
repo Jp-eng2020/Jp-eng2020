@@ -1,8 +1,8 @@
 ## Hello, me chamo João Pedro  
 
-- 🔭 Bolsista Java LEAD DELL
-- 🌱 Estutando Springboot
-- 🤖 Academico em Engenharia de Computação na UFC
+- 🔭 Bolsista Inove UFC 
+- 🌱 Estudando Springboot
+- 🤖 Acadêmico em Engenharia de Computação na UFC
 - ⚡ Músico e Skatista
 
 <div align="center">
